@@ -11,7 +11,7 @@ Welcome to the AI Studio Hub, your go-to platform for a diverse range of artific
 
 🚀🎨🤖🔗🌐
 
-The AI Studio is built using a combination of cutting-edge technologies:
+The AI Studio is built using a combination of cutting-edge technologies :
 
 🖼️ Frontend: React | Next.js | Tailwind CSS | Shadcn UI | Clerk
 🎮 3D Modeling: Three.js | react-three/drei | react-three/fiber
